@@ -35,7 +35,7 @@ class DashboardView extends StatelessWidget {
       children: [
         StatsCard(
           totalUsers: totalUsers,
-          totalChargers: totalChargers,d
+          totalChargers: totalChargers,
           totalProfit: totalProfit,
           sessionsToday: sessionsToday,
         ),
